@@ -1,7 +1,7 @@
 Alerts CMS
 ==========
 
-Acesse o CMS de alertas no menu lateral **Alerts** .
+Acesse o CMS de alertas no menu lateral **Alerts**.
 
 ![](<.gitbook/assets/Menu\_alertas (1).png>)
 
