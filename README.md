@@ -3,7 +3,7 @@ Alerts CMS
 
 Acesse o CMS de alertas no menu lateral **Alerts** .
 
-\!\[\]\(<.gitbook/assets/Menu\_alertas \(1\).png>\)
+![](<.gitbook/assets/Menu\_alertas (1).png>)
 
 {% hint style="info" %} Se você não tiver acesso, consulte o TCX OBPM, para que possam administrá-lo. {% endhint %}
 
