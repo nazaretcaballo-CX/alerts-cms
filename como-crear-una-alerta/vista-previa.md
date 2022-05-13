@@ -18,7 +18,7 @@ Obtenha um resumo sobre o alerta criado:
 * **Description**. Exibe a descrição do alerta.  
   👋🏻 No caso de alertas pré-configurados, não é possível exibir a descrição e é mostrado *Preconfigured description* como valor para este campo.
 * **Action configuration**. Se você configurou uma ou duas ações, os textos dos links aparecerão.  
-  👋🏻 No caso de alertas pré-configurados, não é possível exibir a descrição e é mostrado *Preconfigured description* como valor para este campo.\\
+  👋🏻 No caso de alertas pré-configurados, não é possível exibir a descrição e é mostrado *Preconfigured description* como valor para este campo.
 
 ![Exemplo de alerta com duas ações configuradas](../.gitbook/assets/Ejemplo_2Acciones.png)
 
