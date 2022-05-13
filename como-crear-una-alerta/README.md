@@ -21,7 +21,7 @@ overview.md
 contenido.md
 {% endcontent-ref %}
 
-**Passo 3. Preview**. O último passo, como um resumo, e a partir do qual você também pode [criar um teste](..como-hacer-un-test.md) para validar a configuração antes de impactar em uma ampla massa de clientes.
+**Passo 3. Preview**. O último passo, como um resumo, e a partir do qual você também pode [criar um teste](../como-hacer-un-test.md) para validar a configuração antes de impactar em uma ampla massa de clientes.
 
 {% content-ref url="vista-previa.md" %}
 vista-previa.md
