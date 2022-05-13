@@ -1,51 +1,51 @@
-# Cómo hacer un test
+Como fazer um teste
+===================
 
-Aunque en el apartado [Vista previa](como-crear-una-alerta/vista-previa.md#como-crear-un-test) has podido comprobar cómo se inicia un test, a continuación puedes saber más sobre este proceso de pruebas de contenido:
+Embora na seção [Pré\-visualização](como-crear-una-alerta/vista-previa.md#como-crear-un-test) você tenha verificado como um teste é iniciado, abaixo aprenderá mais sobre esse processo de teste de conteúdo:
 
-### Cómo publicar el contenido de un test
+### Como publicar o conteúdo de um teste
 
-Para empezar, sabrás que una alerta tiene un test en marcha gracias a la etiqueta de estado **TEST**:
+Para começar, você reconhecerá se um alerta tem um teste em andamento devido à etiqueta de estado **TEST** :
 
-![](.gitbook/assets/Test\_Detail\_tag.png)
+![](.gitbook/assets/Test_Detail_tag.png)
 
-Para publicar el contenido de un test accede a la lista de alertas sobre la que está en marcha ese test.
+Para publicar o conteúdo de um teste, acesse a lista de alertas em que esse teste está sendo executado.
 
-Al abrir la alerta, el contenido aparece dividido en dos pestañas para que puedas ver, en todo momento, el contenido previo al test y el propio contenido del test.
+Uma vez aberto o alerta, o conteúdo aparece dividido em duas abas para podar visualizar, a qualquer momento, o conteúdo prévio ao teste e o próprio conteúdo do teste.
 
-![](.gitbook/assets/Alerts\_Test\_Tab.png)
+![](.gitbook/assets/Alerts_Test_Tab.png)
 
-{% hint style="warning" %}
-Solo puedes hacer cambios en el contenido si estás en la pestaña **Test**. Usa la otra pestaña para ver el contenido previo a los cambios que has hecho para el test.&#x20;
-{% endhint %}
+\{% hint style="warning" %\}
+Você só pode realizar alterações no conteúdo se estiver na aba de **Teste** . Use a outra aba para visualizar o conteúdo antes das mudanças realizadas para o teste. 
+\{% endhint %\}
 
-Cuando te hayas asegurado de que el contenido que tienes en la pestaña **Test**, en todos los pasos, es el contenido que quieres aplicar entonces haz clic en **Save and Publish**. Haz clic en **Yes** en el mensaje de confirmación.
+Quando você tiver certeza de que o conteúdo da aba **Test** , em todas as etapas, é o conteúdo que deseja aplicar, clique em **Save and Publish** . Clique em **Yes** na mensagem de confirmação.
 
-![](.gitbook/assets/save\_publish\_detail.png)
+![](.gitbook/assets/save_publish_detail.png)
 
-Haz clic en **Save test** para guardar el contenido del test pero no publicarlo.
+Clique em **Save test** para salvar o conteúdo do teste, mas não para sua publicação.
 
-Haz clic en **Close** para volver a la pantalla principal las alertas.
+Clique em **Close** para retornar à tela principal dos alertas.
 
-{% hint style="success" %}
-:thumbsup:En la pantalla principal puedes comprobar que en el estado de la lista ha desaparecido la etiqueta **TEST**.
-{% endhint %}
+\{% hint style="success" %\}
+:thumbsup:Na tela principal, você pode verificar que a etiqueta **TEST** desapareceu do estado da lista.
+\{% endhint %\}
 
+### Como descartar um teste
 
+Se após testar o conteúdo de um alerta, com um Teste em andamento, você decide eliminar as mudanças, acesse o extra em que esse teste está sendo executado.
 
-### Cómo descartar un test
+Clique em **Continue** até chegar ao último passo **Preview** e clique em **Discard test** .
 
-Si tras probar el contenido de una alerta, con un Test en curso, decides descartar los cambios entonces accede al extra sobre la que está en marcha ese test.
+![](.gitbook/assets/discard_test.png)
 
-Haz clic en **Continue** hasta llegar al último paso **Preview** y haz clic en **Discard test**.
+Quando você descarta um teste, significa a eliminação das mudanças que haviam sido efetuadas na alerta e o conteúdo é exibido como estava previamente antes do teste.
 
-![](.gitbook/assets/discard\_test.png)
+### Como adicionar, remover ou modificar os Novum user IDs de um teste
 
-Cuando descartas un test implica eliminar los cambios que habías hecho sobre la alerta y el contenido se muestra como estaba previamente, antes del test.
+Se você precisa editar o teste para adicionar, remover ou modificar os usuários que podem visualizar determinado teste, acesse o alerta.
 
-### Como añadir, quitar o modificar los Novum user IDs de un test
+Na aba **Test** , você pode consultar, no primeiro passo **Overview** , as informações relativas ao teste: a descrição, quem o iniciou e data de criação.
 
-Si necesitas editar el test para poder añadir, quitar o modificar los usuarios que pueden ver un determinado test entonces accede a la alerta.
+Vá para o último passo **Preview** para modificar os números de usuário. Também para adicionar novos user ID ou eliminar os já existentes. Simplesmente, edite os valores do campo **User ID \(opcional\)** e clique em **Save and Publish** para salvar as mudanças.
 
-En la pestaña **Test** puedes consultar, en el primer paso **Overview**, la información relativa al test: la descripción, quién lo ha iniciado y la fecha de creación.
-
-Vete al último paso **Preview** para modificar los números de usuario. También para añadir user ID nuevos o eliminar lo que ya hay. Simplemente edita los valores del campo **User ID (optional)** y haz clic en **Save and Publish** para guardar los cambios.
