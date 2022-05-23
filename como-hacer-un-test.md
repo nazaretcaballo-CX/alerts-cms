@@ -15,11 +15,11 @@ When you open the alert, the content appears divided into two tabs. This allows 
 
 ![](.gitbook/assets/Alerts_Test_Tab.png)
 
-\{% hint style="warning" %\}
+{% hint style="warning" %}
 You can only make changes to the content if you are in the **Test** tab. Use the other tab to view the content prior to the changes you have introduced for the test. 
-\{% endhint %\}
+{% endhint %}
 
-When you are happy that the content in all steps of the **Test** tab is the content you want to apply, click **Save and Publish** . Click **Yes** in the confirmation message.
+When you are happy that the content in all steps of the **Test** tab is the content you want to apply, click **Save and Publish**. Click **Yes** in the confirmation message.
 
 ![](.gitbook/assets/save_publish_detail.png)
 
@@ -27,15 +27,15 @@ Click **Save test** to save the test content but not publish it.
 
 Click **Close** to return to the main alerts screen.
 
-\{% hint style="success" %\}
+{% hint style="success" %}
 :thumbsup: On the main screen, you can see that the **TEST** label is no longer shown in the list status.
-\{% endhint %\}
+{% endhint %}
 
 ### How to delete a test
 
 If, after testing the content of an alert and with a test in progress, you decide to discard the changes, you'll need to access the extra that the ongoing test applies to.
 
-Click **Continue** until you reach the **Preview** , which is the last step. Then, click **Discard test** .
+Click **Continue** until you reach the **Preview**, which is the last step. Then, click **Discard test**.
 
 ![](.gitbook/assets/discard_test.png)
 
@@ -45,7 +45,7 @@ When you delete a test, all the changes that you had made to the alert and the c
 
 If you need to edit the test in order to add, remove or modify the users who can view a certain test, you need to access that list.
 
-In the **Test** tab you can consult, in the first step \( **Overview** \), the information related to the test: its description, who started it and the date on which it was created.
+In the **Test** tab you can consult, in the first step (**Overview**), the information related to the test: its description, who started it and the date on which it was created.
 
-Go to the final step \( **Preview** \) to modify the user numbers. At this step, you can also add new user IDs or delete existing ones. Simply edit the values in the **User ID \(optional\)** field and click **Save and Publish** to save the changes.
+Go to the final step (**Preview**) to modify the user numbers. At this step, you can also add new user IDs or delete existing ones. Simply edit the values in the **User ID (optional)** field and click **Save and Publish** to save the changes.
 
