@@ -54,7 +54,7 @@ In the **User ID (optional)** field you can add one or more user IDs, separated 
 
 Need more information on how to test the content? 👇🏼
 
-{% content-ref url="..como-hacer-un-test.md" %}
+{% content-ref url="../como-hacer-un-test.md" %}
 [como-hacer-un-test.md](../como-hacer-un-test.md)
 {% endcontent-ref %}
 
