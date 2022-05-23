@@ -3,9 +3,9 @@ CMS Alerts
 
 Access the Alerts CMS from the **Alerts** side menu.
 
-\!\[\]\(<.gitbook/assets/Menu\_alertas \(1\).png>\)
+![](<.gitbook/assets/Menu\_alertas (1).png>)
 
-\{% hint style = "info" %\} If you don't have access, ask the TCX OBPM for permission. \{% endhint%\}
+{% hint style = "info" %} If you don't have access, ask the TCX OBPM for permission. {% endhint%}
 
 Before starting...
 ------------------
