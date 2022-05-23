@@ -9,12 +9,12 @@ Use this step to configure the content of the alert.
 
 Fill in the required fields:
 
-**Type of alert** . Select the type of alert.
+**Type of alert**. Select the type of alert.
 
-* **Informative** . Use this type of alert to provide information to the user. 
-* **Warning** . Use this type of alert to warn the user and draw their attention, for example, to actions that require them to do something. 
-* **Promotion** . Use this type of alert to show promotions to the user.
-* **Error** . Use this type of alert to display some kind of error to the user. 
+* **Informative**. Use this type of alert to provide information to the user. 
+* **Warning**. Use this type of alert to warn the user and draw their attention, for example, to actions that require them to do something. 
+* **Promotion**. Use this type of alert to show promotions to the user.
+* **Error**. Use this type of alert to display some kind of error to the user. 
 
 {% hint style="success" %}
 The icons displayed with each type of alert are not configurable. You can use the preview on the right side to see, roughly, how the alert will be displayed to the user.
