@@ -24,6 +24,6 @@ contenido.md
 **Step 3. Preview**. The last step serves as a summary. From the Preview step, you can [create a test](../como-hacer-un-test.md) to validate the configuration before impacting a large mass of customers.
 
 {% content-ref url="vista-previa.md" %}
-[vista-previa.md](vista-previa.md)
+vista-previa.md
 {% endcontent-ref %}
 
